@@ -1,3 +1,1 @@
-application:
-  property:
-    1:some value
+info.id: ${spring.application.name}
